@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "date": "01-11-2018",
+      "state": "Michigan",
+      "storeType": "Retailer",
+      "brandType": "Dessert",
+      "brand": "Chapmans",
+      "model": "Chapmans Ice Cream Tub",
+      "sold": "5000",
+      "revenue": "505129315"
+    },
+    {
+      "id": 2,
+      "date": "07-11-2018",
+      "state": "Michigan",
+      "storeType": "Retailer",
+      "brandType": "Electronics",
+      "brand": "Nintendo",
+      "model": "Nintendo Switch",
+      "sold": "102830125",
+      "revenue": "98000000"
+    },
+    {
+      "id": 3,
+      "date": "03-22-2018",
+      "state": "Michigan",
+      "storeType": "Retailer",
+      "brandType": "Electronics",
+      "brand": "Samsung",
+      "model": "Samsung TV",
+      "sold": "15",
+      "revenue": "45000"
+    },
+    {
+      "id": 4,
+      "date": "04-28-2018",
+      "state": "Michigan",
+      "storeType": "Retailer",
+      "brandType": "Electronics",
+      "brand": "LG",
+      "model": "LG HDTV",
+      "sold": "3",
+      "revenue": "9000"
+    },
+    {
+      "id": 5,
+      "date": "12-03-2018",
+      "state": "Idaho",
+      "storeType": "Automotive Dealer",
+      "brandType": "Car",
+      "brand": "Ford",
+      "model": "Ford Mustang",
+      "sold": "3",
+      "revenue": "15000"
+    },
+    {
+      "id": 6,
+      "date": "10-28-2018",
+      "state": "Georgia",
+      "storeType": "Automotive Dealer",
+      "brandType": "Car",
+      "brand": "Chevrolet",
+      "model": "Chevrolet Corvette",
+      "sold": "3",
+      "revenue": "1250000"
+    },
+    {
+      "id": 7,
+      "date": "11-11-2018",
+      "state": "Michigan",
+      "storeType": "Retailer",
+      "brandType": "Clothing",
+      "brand": "Tommy Hilfiger",
+      "model": "Mens Dress Shirt",
+      "sold": "10",
+      "revenue": "750"
+    },
+    {
+      "id": 8,
+      "date": "12-06-2018",
+      "state": "Ohio",
+      "storeType": "Automotive Dealer",
+      "brandType": "Car",
+      "brand": "Dodge",
+      "model": "Dodge Caravan",
+      "sold": "2",
+      "revenue": "1000000"
+    }
+  ]
+}
